@@ -7,6 +7,16 @@
 .navbar {
     font-size: 18px;
 }
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* button */
+.btn:hover {
+    color: white;
+}
 
 /* progress bar */
 .progress {
